@@ -1,4 +1,5 @@
 C:\Dev\MySolution\Services\Dbio\Jon.Dio.MyDatabase\bin\Debug\net6.0\Jon.Dio.MyDatabase.deps.json
+C:\Dev\MySolution\Services\Dbio\Jon.Dio.MyDatabase\bin\Debug\net6.0\Jon.Dio.MyDatabase.runtimeconfig.json
 C:\Dev\MySolution\Services\Dbio\Jon.Dio.MyDatabase\bin\Debug\net6.0\Jon.Dio.MyDatabase.dll
 C:\Dev\MySolution\Services\Dbio\Jon.Dio.MyDatabase\bin\Debug\net6.0\Jon.Dio.MyDatabase.pdb
 C:\Dev\MySolution\Services\Dbio\Jon.Dio.MyDatabase\obj\Debug\net6.0\Jon.Dio.MyDatabase.csproj.AssemblyReference.cache
@@ -9,4 +10,5 @@ C:\Dev\MySolution\Services\Dbio\Jon.Dio.MyDatabase\obj\Debug\net6.0\Jon.Dio.MyDa
 C:\Dev\MySolution\Services\Dbio\Jon.Dio.MyDatabase\obj\Debug\net6.0\Jon.Dio.MyDatabase.dll
 C:\Dev\MySolution\Services\Dbio\Jon.Dio.MyDatabase\obj\Debug\net6.0\refint\Jon.Dio.MyDatabase.dll
 C:\Dev\MySolution\Services\Dbio\Jon.Dio.MyDatabase\obj\Debug\net6.0\Jon.Dio.MyDatabase.pdb
+C:\Dev\MySolution\Services\Dbio\Jon.Dio.MyDatabase\obj\Debug\net6.0\Jon.Dio.MyDatabase.genruntimeconfig.cache
 C:\Dev\MySolution\Services\Dbio\Jon.Dio.MyDatabase\obj\Debug\net6.0\ref\Jon.Dio.MyDatabase.dll

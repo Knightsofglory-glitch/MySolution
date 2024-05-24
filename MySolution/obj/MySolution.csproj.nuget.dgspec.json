@@ -1,0 +1,314 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Dev\\MySolution\\MySolution\\MySolution.csproj": {}
+  },
+  "projects": {
+    "C:\\Dev\\MySolution\\Functional\\Jon.Functional.MySolution\\Jon.Functional.MySolution.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Dev\\MySolution\\Functional\\Jon.Functional.MySolution\\Jon.Functional.MySolution.csproj",
+        "projectName": "Jon.Functional.MySolution",
+        "projectPath": "C:\\Dev\\MySolution\\Functional\\Jon.Functional.MySolution\\Jon.Functional.MySolution.csproj",
+        "packagesPath": "C:\\Users\\jcoro\\.nuget\\packages\\",
+        "outputPath": "C:\\Dev\\MySolution\\Functional\\Jon.Functional.MySolution\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jcoro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Dev\\MySolution\\MySolution\\MySolution.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Dev\\MySolution\\MySolution\\MySolution.csproj",
+        "projectName": "MySolution",
+        "projectPath": "C:\\Dev\\MySolution\\MySolution\\MySolution.csproj",
+        "packagesPath": "C:\\Users\\jcoro\\.nuget\\packages\\",
+        "outputPath": "C:\\Dev\\MySolution\\MySolution\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jcoro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Dev\\MySolution\\Functional\\Jon.Functional.MySolution\\Jon.Functional.MySolution.csproj": {
+                "projectPath": "C:\\Dev\\MySolution\\Functional\\Jon.Functional.MySolution\\Jon.Functional.MySolution.csproj"
+              },
+              "C:\\Dev\\MySolution\\Utilities\\Daystar.Util.Buffer\\Daystar.Util.Buffer.csproj": {
+                "projectPath": "C:\\Dev\\MySolution\\Utilities\\Daystar.Util.Buffer\\Daystar.Util.Buffer.csproj"
+              },
+              "C:\\Dev\\MySolution\\Utilities\\Daystar.Util.Data\\Daystar.Util.Data.csproj": {
+                "projectPath": "C:\\Dev\\MySolution\\Utilities\\Daystar.Util.Data\\Daystar.Util.Data.csproj"
+              },
+              "C:\\Dev\\MySolution\\Utilities\\Daystar.Util.Status\\Daystar.Util.Status.csproj": {
+                "projectPath": "C:\\Dev\\MySolution\\Utilities\\Daystar.Util.Status\\Daystar.Util.Status.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Dev\\MySolution\\Utilities\\Daystar.Util.Buffer\\Daystar.Util.Buffer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Dev\\MySolution\\Utilities\\Daystar.Util.Buffer\\Daystar.Util.Buffer.csproj",
+        "projectName": "Daystar.Util.Buffer",
+        "projectPath": "C:\\Dev\\MySolution\\Utilities\\Daystar.Util.Buffer\\Daystar.Util.Buffer.csproj",
+        "packagesPath": "C:\\Users\\jcoro\\.nuget\\packages\\",
+        "outputPath": "C:\\Dev\\MySolution\\Utilities\\Daystar.Util.Buffer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jcoro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Newtonsoft.Json.Bson": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Dev\\MySolution\\Utilities\\Daystar.Util.Data\\Daystar.Util.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Dev\\MySolution\\Utilities\\Daystar.Util.Data\\Daystar.Util.Data.csproj",
+        "projectName": "Daystar.Util.Data",
+        "projectPath": "C:\\Dev\\MySolution\\Utilities\\Daystar.Util.Data\\Daystar.Util.Data.csproj",
+        "packagesPath": "C:\\Users\\jcoro\\.nuget\\packages\\",
+        "outputPath": "C:\\Dev\\MySolution\\Utilities\\Daystar.Util.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jcoro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Dev\\MySolution\\Utilities\\Daystar.Util.Status\\Daystar.Util.Status.csproj": {
+                "projectPath": "C:\\Dev\\MySolution\\Utilities\\Daystar.Util.Status\\Daystar.Util.Status.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Dev\\MySolution\\Utilities\\Daystar.Util.Status\\Daystar.Util.Status.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Dev\\MySolution\\Utilities\\Daystar.Util.Status\\Daystar.Util.Status.csproj",
+        "projectName": "Daystar.Util.Status",
+        "projectPath": "C:\\Dev\\MySolution\\Utilities\\Daystar.Util.Status\\Daystar.Util.Status.csproj",
+        "packagesPath": "C:\\Users\\jcoro\\.nuget\\packages\\",
+        "outputPath": "C:\\Dev\\MySolution\\Utilities\\Daystar.Util.Status\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jcoro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
