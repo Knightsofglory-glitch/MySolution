@@ -1,0 +1,12 @@
+C:\Dev\MySolution\Services\Dbio\Jon.Dio.MyDatabase\bin\Debug\net6.0\Jon.Dio.MyDatabase.deps.json
+C:\Dev\MySolution\Services\Dbio\Jon.Dio.MyDatabase\bin\Debug\net6.0\Jon.Dio.MyDatabase.dll
+C:\Dev\MySolution\Services\Dbio\Jon.Dio.MyDatabase\bin\Debug\net6.0\Jon.Dio.MyDatabase.pdb
+C:\Dev\MySolution\Services\Dbio\Jon.Dio.MyDatabase\obj\Debug\net6.0\Jon.Dio.MyDatabase.csproj.AssemblyReference.cache
+C:\Dev\MySolution\Services\Dbio\Jon.Dio.MyDatabase\obj\Debug\net6.0\Jon.Dio.MyDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\MySolution\Services\Dbio\Jon.Dio.MyDatabase\obj\Debug\net6.0\Jon.Dio.MyDatabase.AssemblyInfoInputs.cache
+C:\Dev\MySolution\Services\Dbio\Jon.Dio.MyDatabase\obj\Debug\net6.0\Jon.Dio.MyDatabase.AssemblyInfo.cs
+C:\Dev\MySolution\Services\Dbio\Jon.Dio.MyDatabase\obj\Debug\net6.0\Jon.Dio.MyDatabase.csproj.CoreCompileInputs.cache
+C:\Dev\MySolution\Services\Dbio\Jon.Dio.MyDatabase\obj\Debug\net6.0\Jon.Dio.MyDatabase.dll
+C:\Dev\MySolution\Services\Dbio\Jon.Dio.MyDatabase\obj\Debug\net6.0\refint\Jon.Dio.MyDatabase.dll
+C:\Dev\MySolution\Services\Dbio\Jon.Dio.MyDatabase\obj\Debug\net6.0\Jon.Dio.MyDatabase.pdb
+C:\Dev\MySolution\Services\Dbio\Jon.Dio.MyDatabase\obj\Debug\net6.0\ref\Jon.Dio.MyDatabase.dll
