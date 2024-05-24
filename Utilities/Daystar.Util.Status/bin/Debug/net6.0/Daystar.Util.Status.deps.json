@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Daystar.Util.Status/1.0.0": {
+        "runtime": {
+          "Daystar.Util.Status.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Daystar.Util.Status/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

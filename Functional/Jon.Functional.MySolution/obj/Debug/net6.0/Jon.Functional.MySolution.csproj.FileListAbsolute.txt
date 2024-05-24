@@ -1,0 +1,12 @@
+C:\Dev\MySolution\Functional\Jon.Functional.MySolution\bin\Debug\net6.0\Jon.Functional.MySolution.deps.json
+C:\Dev\MySolution\Functional\Jon.Functional.MySolution\bin\Debug\net6.0\Jon.Functional.MySolution.dll
+C:\Dev\MySolution\Functional\Jon.Functional.MySolution\bin\Debug\net6.0\Jon.Functional.MySolution.pdb
+C:\Dev\MySolution\Functional\Jon.Functional.MySolution\obj\Debug\net6.0\Jon.Functional.MySolution.csproj.AssemblyReference.cache
+C:\Dev\MySolution\Functional\Jon.Functional.MySolution\obj\Debug\net6.0\Jon.Functional.MySolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\MySolution\Functional\Jon.Functional.MySolution\obj\Debug\net6.0\Jon.Functional.MySolution.AssemblyInfoInputs.cache
+C:\Dev\MySolution\Functional\Jon.Functional.MySolution\obj\Debug\net6.0\Jon.Functional.MySolution.AssemblyInfo.cs
+C:\Dev\MySolution\Functional\Jon.Functional.MySolution\obj\Debug\net6.0\Jon.Functional.MySolution.csproj.CoreCompileInputs.cache
+C:\Dev\MySolution\Functional\Jon.Functional.MySolution\obj\Debug\net6.0\Jon.Functional.MySolution.dll
+C:\Dev\MySolution\Functional\Jon.Functional.MySolution\obj\Debug\net6.0\refint\Jon.Functional.MySolution.dll
+C:\Dev\MySolution\Functional\Jon.Functional.MySolution\obj\Debug\net6.0\Jon.Functional.MySolution.pdb
+C:\Dev\MySolution\Functional\Jon.Functional.MySolution\obj\Debug\net6.0\ref\Jon.Functional.MySolution.dll

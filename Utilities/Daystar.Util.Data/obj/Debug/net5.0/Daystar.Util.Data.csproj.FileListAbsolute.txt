@@ -1,0 +1,15 @@
+C:\Users\jcoro\OneDrive\Desktop\Bens-update-Exgpa\Utilities\Daystar.Util.Data\Daystar.Util.Data\bin\Debug\net5.0\Daystar.Util.Data.deps.json
+C:\Users\jcoro\OneDrive\Desktop\Bens-update-Exgpa\Utilities\Daystar.Util.Data\Daystar.Util.Data\bin\Debug\net5.0\Daystar.Util.Data.dll
+C:\Users\jcoro\OneDrive\Desktop\Bens-update-Exgpa\Utilities\Daystar.Util.Data\Daystar.Util.Data\bin\Debug\net5.0\Daystar.Util.Data.pdb
+C:\Users\jcoro\OneDrive\Desktop\Bens-update-Exgpa\Utilities\Daystar.Util.Data\Daystar.Util.Data\bin\Debug\net5.0\Daystar.Util.Status.dll
+C:\Users\jcoro\OneDrive\Desktop\Bens-update-Exgpa\Utilities\Daystar.Util.Data\Daystar.Util.Data\bin\Debug\net5.0\Daystar.Util.Status.pdb
+C:\Users\jcoro\OneDrive\Desktop\Bens-update-Exgpa\Utilities\Daystar.Util.Data\Daystar.Util.Data\obj\Debug\net5.0\Daystar.Util.Data.csproj.AssemblyReference.cache
+C:\Users\jcoro\OneDrive\Desktop\Bens-update-Exgpa\Utilities\Daystar.Util.Data\Daystar.Util.Data\obj\Debug\net5.0\Daystar.Util.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcoro\OneDrive\Desktop\Bens-update-Exgpa\Utilities\Daystar.Util.Data\Daystar.Util.Data\obj\Debug\net5.0\Daystar.Util.Data.AssemblyInfoInputs.cache
+C:\Users\jcoro\OneDrive\Desktop\Bens-update-Exgpa\Utilities\Daystar.Util.Data\Daystar.Util.Data\obj\Debug\net5.0\Daystar.Util.Data.AssemblyInfo.cs
+C:\Users\jcoro\OneDrive\Desktop\Bens-update-Exgpa\Utilities\Daystar.Util.Data\Daystar.Util.Data\obj\Debug\net5.0\Daystar.Util.Data.csproj.CoreCompileInputs.cache
+C:\Users\jcoro\OneDrive\Desktop\Bens-update-Exgpa\Utilities\Daystar.Util.Data\Daystar.Util.Data\obj\Debug\net5.0\Daystar.Util.Data.csproj.CopyComplete
+C:\Users\jcoro\OneDrive\Desktop\Bens-update-Exgpa\Utilities\Daystar.Util.Data\Daystar.Util.Data\obj\Debug\net5.0\Daystar.Util.Data.dll
+C:\Users\jcoro\OneDrive\Desktop\Bens-update-Exgpa\Utilities\Daystar.Util.Data\Daystar.Util.Data\obj\Debug\net5.0\refint\Daystar.Util.Data.dll
+C:\Users\jcoro\OneDrive\Desktop\Bens-update-Exgpa\Utilities\Daystar.Util.Data\Daystar.Util.Data\obj\Debug\net5.0\Daystar.Util.Data.pdb
+C:\Users\jcoro\OneDrive\Desktop\Bens-update-Exgpa\Utilities\Daystar.Util.Data\Daystar.Util.Data\obj\Debug\net5.0\ref\Daystar.Util.Data.dll

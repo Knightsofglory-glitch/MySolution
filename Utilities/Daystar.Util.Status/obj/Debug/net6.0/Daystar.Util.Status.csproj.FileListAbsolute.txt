@@ -1,0 +1,12 @@
+C:\Dev\MySolution\Utilities\Daystar.Util.Status\bin\Debug\net6.0\Daystar.Util.Status.deps.json
+C:\Dev\MySolution\Utilities\Daystar.Util.Status\bin\Debug\net6.0\Daystar.Util.Status.dll
+C:\Dev\MySolution\Utilities\Daystar.Util.Status\bin\Debug\net6.0\Daystar.Util.Status.pdb
+C:\Dev\MySolution\Utilities\Daystar.Util.Status\obj\Debug\net6.0\Daystar.Util.Status.csproj.AssemblyReference.cache
+C:\Dev\MySolution\Utilities\Daystar.Util.Status\obj\Debug\net6.0\Daystar.Util.Status.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\MySolution\Utilities\Daystar.Util.Status\obj\Debug\net6.0\Daystar.Util.Status.AssemblyInfoInputs.cache
+C:\Dev\MySolution\Utilities\Daystar.Util.Status\obj\Debug\net6.0\Daystar.Util.Status.AssemblyInfo.cs
+C:\Dev\MySolution\Utilities\Daystar.Util.Status\obj\Debug\net6.0\Daystar.Util.Status.csproj.CoreCompileInputs.cache
+C:\Dev\MySolution\Utilities\Daystar.Util.Status\obj\Debug\net6.0\Daystar.Util.Status.dll
+C:\Dev\MySolution\Utilities\Daystar.Util.Status\obj\Debug\net6.0\refint\Daystar.Util.Status.dll
+C:\Dev\MySolution\Utilities\Daystar.Util.Status\obj\Debug\net6.0\Daystar.Util.Status.pdb
+C:\Dev\MySolution\Utilities\Daystar.Util.Status\obj\Debug\net6.0\ref\Daystar.Util.Status.dll
