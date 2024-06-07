@@ -1,0 +1,11 @@
+C:\AvidSoftwareSolutions\Work\JonCordova\mysolution\MySolution\Functional\Daystar.Functional.Util\bin\Debug\net6.0\Daystar.Functional.Util.deps.json
+C:\AvidSoftwareSolutions\Work\JonCordova\mysolution\MySolution\Functional\Daystar.Functional.Util\bin\Debug\net6.0\Daystar.Functional.Util.dll
+C:\AvidSoftwareSolutions\Work\JonCordova\mysolution\MySolution\Functional\Daystar.Functional.Util\bin\Debug\net6.0\Daystar.Functional.Util.pdb
+C:\AvidSoftwareSolutions\Work\JonCordova\mysolution\MySolution\Functional\Daystar.Functional.Util\obj\Debug\net6.0\Daystar.Functional.Util.GeneratedMSBuildEditorConfig.editorconfig
+C:\AvidSoftwareSolutions\Work\JonCordova\mysolution\MySolution\Functional\Daystar.Functional.Util\obj\Debug\net6.0\Daystar.Functional.Util.AssemblyInfoInputs.cache
+C:\AvidSoftwareSolutions\Work\JonCordova\mysolution\MySolution\Functional\Daystar.Functional.Util\obj\Debug\net6.0\Daystar.Functional.Util.AssemblyInfo.cs
+C:\AvidSoftwareSolutions\Work\JonCordova\mysolution\MySolution\Functional\Daystar.Functional.Util\obj\Debug\net6.0\Daystar.Functional.Util.csproj.CoreCompileInputs.cache
+C:\AvidSoftwareSolutions\Work\JonCordova\mysolution\MySolution\Functional\Daystar.Functional.Util\obj\Debug\net6.0\Daystar.Functional.Util.dll
+C:\AvidSoftwareSolutions\Work\JonCordova\mysolution\MySolution\Functional\Daystar.Functional.Util\obj\Debug\net6.0\refint\Daystar.Functional.Util.dll
+C:\AvidSoftwareSolutions\Work\JonCordova\mysolution\MySolution\Functional\Daystar.Functional.Util\obj\Debug\net6.0\Daystar.Functional.Util.pdb
+C:\AvidSoftwareSolutions\Work\JonCordova\mysolution\MySolution\Functional\Daystar.Functional.Util\obj\Debug\net6.0\ref\Daystar.Functional.Util.dll

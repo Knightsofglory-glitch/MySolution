@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\AvidSoftwareSolutions\\Work\\JonCordova\\mysolution\\MySolution\\Functional\\Daystar.Functional.Util\\Jon.Functional.Util.csproj": {}
+  },
+  "projects": {
+    "C:\\AvidSoftwareSolutions\\Work\\JonCordova\\mysolution\\MySolution\\Functional\\Daystar.Functional.Util\\Jon.Functional.Util.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\AvidSoftwareSolutions\\Work\\JonCordova\\mysolution\\MySolution\\Functional\\Daystar.Functional.Util\\Jon.Functional.Util.csproj",
+        "projectName": "Jon.Functional.Util",
+        "projectPath": "C:\\AvidSoftwareSolutions\\Work\\JonCordova\\mysolution\\MySolution\\Functional\\Daystar.Functional.Util\\Jon.Functional.Util.csproj",
+        "packagesPath": "C:\\Users\\ben.gillis\\.nuget\\packages\\",
+        "outputPath": "C:\\AvidSoftwareSolutions\\Work\\JonCordova\\mysolution\\MySolution\\Functional\\Daystar.Functional.Util\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ben.gillis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

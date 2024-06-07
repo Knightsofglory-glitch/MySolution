@@ -6,4 +6,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\Utilities\Jon.Util.Buffer\Jon.Util.Buffer.csproj" />
+    <ProjectReference Include="..\..\Utilities\Jon.Util.Data\Jon.Util.Data.csproj" />
+    <ProjectReference Include="..\..\Utilities\Jon.Util.Status\Jon.Util.Status.csproj" />
+  </ItemGroup>
+
 </Project>

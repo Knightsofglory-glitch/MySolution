@@ -1,0 +1,15 @@
+C:\AvidSoftwareSolutions\Work\JonCordova\github\Services\Dbio\Daystar.Services.Dbio.ASM\bin\Debug\net5.0\Daystar.Services.Dbio.ASM.deps.json
+C:\AvidSoftwareSolutions\Work\JonCordova\github\Services\Dbio\Daystar.Services.Dbio.ASM\bin\Debug\net5.0\Daystar.Services.Dbio.ASM.runtimeconfig.json
+C:\AvidSoftwareSolutions\Work\JonCordova\github\Services\Dbio\Daystar.Services.Dbio.ASM\bin\Debug\net5.0\Daystar.Services.Dbio.ASM.runtimeconfig.dev.json
+C:\AvidSoftwareSolutions\Work\JonCordova\github\Services\Dbio\Daystar.Services.Dbio.ASM\bin\Debug\net5.0\Daystar.Services.Dbio.ASM.dll
+C:\AvidSoftwareSolutions\Work\JonCordova\github\Services\Dbio\Daystar.Services.Dbio.ASM\bin\Debug\net5.0\Daystar.Services.Dbio.ASM.pdb
+C:\AvidSoftwareSolutions\Work\JonCordova\github\Services\Dbio\Daystar.Services.Dbio.ASM\obj\Debug\net5.0\Daystar.Services.Dbio.ASM.csproj.AssemblyReference.cache
+C:\AvidSoftwareSolutions\Work\JonCordova\github\Services\Dbio\Daystar.Services.Dbio.ASM\obj\Debug\net5.0\Daystar.Services.Dbio.ASM.GeneratedMSBuildEditorConfig.editorconfig
+C:\AvidSoftwareSolutions\Work\JonCordova\github\Services\Dbio\Daystar.Services.Dbio.ASM\obj\Debug\net5.0\Daystar.Services.Dbio.ASM.AssemblyInfoInputs.cache
+C:\AvidSoftwareSolutions\Work\JonCordova\github\Services\Dbio\Daystar.Services.Dbio.ASM\obj\Debug\net5.0\Daystar.Services.Dbio.ASM.AssemblyInfo.cs
+C:\AvidSoftwareSolutions\Work\JonCordova\github\Services\Dbio\Daystar.Services.Dbio.ASM\obj\Debug\net5.0\Daystar.Services.Dbio.ASM.csproj.CoreCompileInputs.cache
+C:\AvidSoftwareSolutions\Work\JonCordova\github\Services\Dbio\Daystar.Services.Dbio.ASM\obj\Debug\net5.0\Daystar.Services.Dbio.ASM.dll
+C:\AvidSoftwareSolutions\Work\JonCordova\github\Services\Dbio\Daystar.Services.Dbio.ASM\obj\Debug\net5.0\refint\Daystar.Services.Dbio.ASM.dll
+C:\AvidSoftwareSolutions\Work\JonCordova\github\Services\Dbio\Daystar.Services.Dbio.ASM\obj\Debug\net5.0\Daystar.Services.Dbio.ASM.pdb
+C:\AvidSoftwareSolutions\Work\JonCordova\github\Services\Dbio\Daystar.Services.Dbio.ASM\obj\Debug\net5.0\Daystar.Services.Dbio.ASM.genruntimeconfig.cache
+C:\AvidSoftwareSolutions\Work\JonCordova\github\Services\Dbio\Daystar.Services.Dbio.ASM\obj\Debug\net5.0\ref\Daystar.Services.Dbio.ASM.dll

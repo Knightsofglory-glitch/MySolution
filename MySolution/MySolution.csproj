@@ -8,9 +8,9 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Functional\Jon.Functional.MySolution\Jon.Functional.MySolution.csproj" />
-    <ProjectReference Include="..\Utilities\Daystar.Util.Buffer\Daystar.Util.Buffer.csproj" />
-    <ProjectReference Include="..\Utilities\Daystar.Util.Data\Daystar.Util.Data.csproj" />
-    <ProjectReference Include="..\Utilities\Daystar.Util.Status\Daystar.Util.Status.csproj" />
+    <ProjectReference Include="..\Utilities\Jon.Util.Buffer\Jon.Util.Buffer.csproj" />
+    <ProjectReference Include="..\Utilities\Jon.Util.Data\Jon.Util.Data.csproj" />
+    <ProjectReference Include="..\Utilities\Jon.Util.Status\Jon.Util.Status.csproj" />
   </ItemGroup>
 
 </Project>

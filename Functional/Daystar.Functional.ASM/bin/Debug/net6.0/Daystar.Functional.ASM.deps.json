@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Daystar.Functional.ASM/1.0.0": {
+        "dependencies": {
+          "Daystar.Util.Data": "1.0.0"
+        },
+        "runtime": {
+          "Daystar.Functional.ASM.dll": {}
+        }
+      },
+      "Daystar.Util.Data/1.0.0": {
+        "dependencies": {
+          "Daystar.Util.Status": "1.0.0"
+        },
+        "runtime": {
+          "Daystar.Util.Data.dll": {}
+        }
+      },
+      "Daystar.Util.Status/1.0.0": {
+        "runtime": {
+          "Daystar.Util.Status.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Daystar.Functional.ASM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Daystar.Util.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Daystar.Util.Status/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

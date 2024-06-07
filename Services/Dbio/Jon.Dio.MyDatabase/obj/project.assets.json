@@ -3418,19 +3418,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jcoro\\.nuget\\packages\\": {}
+    "C:\\Users\\ben.gillis\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\MySolution\\Services\\Dbio\\Jon.Dio.MyDatabase\\Jon.Dio.MyDatabase.csproj",
+      "projectUniqueName": "C:\\AvidSoftwareSolutions\\Work\\JonCordova\\mysolution\\MySolution\\Services\\Dbio\\Jon.Dio.MyDatabase\\Jon.Dio.MyDatabase.csproj",
       "projectName": "Jon.Dio.MyDatabase",
-      "projectPath": "C:\\Dev\\MySolution\\Services\\Dbio\\Jon.Dio.MyDatabase\\Jon.Dio.MyDatabase.csproj",
-      "packagesPath": "C:\\Users\\jcoro\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\MySolution\\Services\\Dbio\\Jon.Dio.MyDatabase\\obj\\",
+      "projectPath": "C:\\AvidSoftwareSolutions\\Work\\JonCordova\\mysolution\\MySolution\\Services\\Dbio\\Jon.Dio.MyDatabase\\Jon.Dio.MyDatabase.csproj",
+      "packagesPath": "C:\\Users\\ben.gillis\\.nuget\\packages\\",
+      "outputPath": "C:\\AvidSoftwareSolutions\\Work\\JonCordova\\mysolution\\MySolution\\Services\\Dbio\\Jon.Dio.MyDatabase\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\jcoro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ben.gillis\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3487,7 +3491,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

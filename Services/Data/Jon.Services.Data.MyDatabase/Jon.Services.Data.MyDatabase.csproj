@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Functional\Daystar.Functional.ASM\Jon.Functional.ASM.csproj" />
+    <ProjectReference Include="..\..\..\Functional\Daystar.Functional.Util\Jon.Functional.Util.csproj" />
+    <ProjectReference Include="..\..\..\Functional\Jon.Functional.MySolution\Jon.Functional.MySolution.csproj" />
+    <ProjectReference Include="..\..\..\Utilities\Jon.Util.Buffer\Jon.Util.Buffer.csproj" />
+    <ProjectReference Include="..\..\..\Utilities\Jon.Util.Data\Jon.Util.Data.csproj" />
+    <ProjectReference Include="..\..\..\Utilities\Jon.Util.Status\Jon.Util.Status.csproj" />
+    <ProjectReference Include="..\Daystar.Services.Data\Jon.Services.Data.csproj" />
+  </ItemGroup>
+
+</Project>

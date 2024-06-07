@@ -27,19 +27,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jcoro\\.nuget\\packages\\": {}
+    "C:\\Users\\ben.gillis\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\MySolution\\Utilities\\Daystar.Util.Data\\Daystar.Util.Data.csproj",
+      "projectUniqueName": "C:\\AvidSoftwareSolutions\\Work\\JonCordova\\mysolution\\MySolution\\Utilities\\Daystar.Util.Data\\Daystar.Util.Data.csproj",
       "projectName": "Daystar.Util.Data",
-      "projectPath": "C:\\Dev\\MySolution\\Utilities\\Daystar.Util.Data\\Daystar.Util.Data.csproj",
-      "packagesPath": "C:\\Users\\jcoro\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\MySolution\\Utilities\\Daystar.Util.Data\\obj\\",
+      "projectPath": "C:\\AvidSoftwareSolutions\\Work\\JonCordova\\mysolution\\MySolution\\Utilities\\Daystar.Util.Data\\Daystar.Util.Data.csproj",
+      "packagesPath": "C:\\Users\\ben.gillis\\.nuget\\packages\\",
+      "outputPath": "C:\\AvidSoftwareSolutions\\Work\\JonCordova\\mysolution\\MySolution\\Utilities\\Daystar.Util.Data\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\jcoro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ben.gillis\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -53,8 +57,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Dev\\MySolution\\Utilities\\Daystar.Util.Status\\Daystar.Util.Status.csproj": {
-              "projectPath": "C:\\Dev\\MySolution\\Utilities\\Daystar.Util.Status\\Daystar.Util.Status.csproj"
+            "C:\\AvidSoftwareSolutions\\Work\\JonCordova\\mysolution\\MySolution\\Utilities\\Daystar.Util.Status\\Daystar.Util.Status.csproj": {
+              "projectPath": "C:\\AvidSoftwareSolutions\\Work\\JonCordova\\mysolution\\MySolution\\Utilities\\Daystar.Util.Status\\Daystar.Util.Status.csproj"
             }
           }
         }
@@ -84,7 +88,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

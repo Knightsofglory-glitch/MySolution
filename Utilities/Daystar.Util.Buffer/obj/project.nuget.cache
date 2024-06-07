@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Y3YvCfwd1k7kGpKtgifUP9Ku0rtYoQdngBMWMrvQRfQ9Z+tZsZ7EKpThytrO+FCfWoQg43+KnCzCw+9zlFE0uA==",
+  "dgSpecHash": "L0i4w2d2g6MeR3qZ+u3izuv/H+mWgBJRp3t6FX7yfg9YZg4ftPqCo0KY3IkNIVQTFkuqQfTQGRygJGZz+vi0qA==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\MySolution\\Utilities\\Daystar.Util.Buffer\\Daystar.Util.Buffer.csproj",
+  "projectFilePath": "C:\\AvidSoftwareSolutions\\Work\\JonCordova\\mysolution\\MySolution\\Utilities\\Daystar.Util.Buffer\\Jon.Util.Buffer.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\jcoro\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
-    "C:\\Users\\jcoro\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+    "C:\\Users\\ben.gillis\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\ben.gillis\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
   ],
   "logs": []
 }
